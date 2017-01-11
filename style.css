@@ -1,0 +1,53 @@
+.choose{
+	margin: auto;
+	text-align: center;
+	margin-top: 20%;
+	background-color: #b22d34;
+	padding: 2%;
+	color: white;
+}
+
+.applicant{
+	margin: auto;
+	color: black;
+	width: 75%;
+	padding: 5%;
+}
+
+.login{
+	background-color: #b22d34;
+	margin: 5%;
+	margin-top: 5%;
+	color: white;
+	padding: 5%;
+}
+
+.memberSelect{
+	margin: auto;
+	background-color: #b22d34;
+	padding: 10%;
+	margin-top: 15%;
+}
+
+.memberSelect, a{
+	margin-top: 5%;
+}
+.thanks{
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+}
+
+
+tr, th, td{
+	padding: 5%;
+	text-align: left;
+	margin: 5%;
+	width: 6%;
+	border: 1px;
+}
+
+.displayApplicant{
+	margin: 5%;
+}
+
