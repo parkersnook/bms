@@ -1,8 +1,10 @@
  <?php
-  define('DB_HOST', 'mysql.cs.orst.edu');
-  define('DB_USER', 'cs340_snookp');
-  define('DB_PASSWORD', '6378');
-  define('DB_NAME', 'cs340_snookp');
+  define('DB_HOST', 'http://php-catfeeder.rhcloud.com/');
+  define('DB_USER', 'adminuzREsVU');
+  define('DB_PASSWORD', 'jxMIZyiqD9Vl');
+  define('DB_NAME', 'bms');
 ?>
+
+
 
 
